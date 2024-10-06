@@ -174,3 +174,22 @@
 +defaults/osx-64::unicodedata2-15.1.0-py38h6c40b1e_0
 +defaults/osx-64::urllib3-2.2.2-py38hecd8cb5_0
 # update specs: ['conda-forge::catboost']
+==> 2024-10-05 15:10:30 <==
+# cmd: /opt/anaconda3/condabin/conda install -c conda-forge --prefix /Users/Sajjad/MLProjects/venv tensorboard -y
+# conda version: 24.7.1
+-defaults/osx-64::certifi-2024.8.30-py38hecd8cb5_0
++conda-forge/noarch::absl-py-2.1.0-pyhd8ed1ab_0
++conda-forge/noarch::certifi-2024.8.30-pyhd8ed1ab_0
++conda-forge/noarch::markdown-3.6-pyhd8ed1ab_0
++conda-forge/noarch::tensorboard-2.17.1-pyhd8ed1ab_0
++conda-forge/noarch::werkzeug-3.0.4-pyhd8ed1ab_0
++conda-forge/osx-64::c-ares-1.33.1-h44e7173_0
++conda-forge/osx-64::grpcio-1.54.0-py38h4cd09af_0
++conda-forge/osx-64::libabseil-20230125.0-cxx17_hf0c8a7f_1
++conda-forge/osx-64::libgrpc-1.54.0-h5bc3d57_0
++conda-forge/osx-64::libprotobuf-3.21.12-hbc0c0cd_0
++conda-forge/osx-64::markupsafe-2.1.5-py38hae2e43d_0
++conda-forge/osx-64::protobuf-4.21.12-py38h4cd09af_0
++conda-forge/osx-64::re2-2023.02.02-hf0c8a7f_0
++conda-forge/osx-64::tensorboard-data-server-0.7.0-py38he13da33_1
+# update specs: ['tensorboard']
